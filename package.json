@@ -1,0 +1,29 @@
+{
+  "name": "animated-bot-icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaeWulf/animated-bot-icon.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "animated",
+    "gif"
+  ],
+  "author": "Faewulf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaeWulf/animated-bot-icon/issues"
+  },
+  "homepage": "https://github.com/FaeWulf/animated-bot-icon#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
