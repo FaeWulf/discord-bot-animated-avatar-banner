@@ -4,27 +4,27 @@ This is a simple script to change your bot's avatar into animated one.
 
 ## How to use?
 
-clone this repo
+1. Clone this repo
 
 ```js
 git clone https://github.com/FaeWulf/animated-bot-icon.git
 ```
 
-Install dependencies (npm, pnpm,...)
+2. Install dependencies (npm, pnpm,...)
 
 ```js
 npm install
 ```
 
-Put your bot token inside .env file
+3. Put your bot token inside .env file
 
 ```js
 token=
 ```
 
-Put icon into repo folder and change your icon's name -> logo.gif
+4. Put icon into repo folder and change your icon's name -> logo.gif
 
-Run script
+5. Run script
 
 ```js
 node index.js
