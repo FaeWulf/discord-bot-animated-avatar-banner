@@ -2,6 +2,8 @@
 
 This is a simple script to change your bot's avatar into animated one.
 
+![demo](https://raw.githubusercontent.com/FaeWulf/animated-bot-icon/main/screenshot/demo.gif)
+
 ## How to use?
 
 1. Clone this repo
