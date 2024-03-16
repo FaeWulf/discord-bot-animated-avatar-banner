@@ -1,6 +1,6 @@
-# Animated icon for disord bot
+# Animated avatar and banner for disord bot
 
-This is a simple script to change your bot's avatar into animated one.
+This is a simple script to change your bot's avatar/banner into animated one.
 
 ![demo](https://raw.githubusercontent.com/FaeWulf/animated-bot-icon/main/screenshot/demo.gif)
 
@@ -24,7 +24,7 @@ npm install
 token=
 ```
 
-4. Put icon into repo folder and change your icon's name -> logo.gif
+4. Put icon/banner into repo folder and change your icon's name -> logo.gif, banner's name -> banner.gif
 
 5. Run script
 

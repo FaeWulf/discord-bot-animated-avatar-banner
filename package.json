@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/FaeWulf/animated-bot-icon#readme",
   "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.74",
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.5"
   }
