@@ -33,3 +33,6 @@ node index.js
 ```
 
 Warning: gif size must < 10mb
+
+P/s: my discord server
+[Discord server](https://discord.gg/xZneCTcEvb)
